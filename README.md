@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NateD3V
 - 👀 I’m interested in learning programming and Web development.
-- 🌱 I’m currently learning C; bootstrap; java
+- 🌱 I’m currently learning Web Developer, Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
