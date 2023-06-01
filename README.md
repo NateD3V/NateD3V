@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NateDev
 - 👀 I’m interested in learning programming and Web development.
-- 🌱 I’m currently learning Web Developer, Javascript.
+- 🌱 I’m currently learning Web Developer, Javascript and python
 - 📫 How to reach me:
 - 🔵 Linkedin: https://www.linkedin.com/in/admnate/
 - 🟣 Instagram: @natedesign_og
