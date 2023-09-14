@@ -36,5 +36,8 @@ Tenho muito interesse em aprender desenvolvimento **Full stack** e **mobile**.
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NateD3V&repo=App-Calculadora-Javascript&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/NateD3V/App-Calculadora-Javascript)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NateD3V&repo=pokedex_DIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/NateD3V/pokedex_DIO.git)
+
+
 
 
